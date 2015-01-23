@@ -1,2 +1,2 @@
 # JavaFileReaders
-some useful File Readers are provided in this repository
+Some useful File Readers are provided in this repository
